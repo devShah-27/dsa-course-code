@@ -55,7 +55,7 @@ int main(int argc, char const *argv[])
     it_1++; // index 1
     cout << *(it_1) << " ";
 
-    it_1 = it_1 + 3; // index 4
+    it_1 = it_1 + 3; // index 4 (1 + 3)
     cout << *(it_1) << " ";
 
     it_1++;                 // index 5 which does not exist in our case

@@ -1,0 +1,2 @@
+Array: 1 2 3 3 3 4 5 
+After removing: 1 2 3 3 4 5 
